@@ -1,0 +1,20 @@
+{
+  "name": "mta-status",
+  "version": "1.0.0",
+  "description": "Small server side process that interacts with the MTA api and Twilio api to send notifications on when there is service disruption for specific user subway lines.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./server.js"
+  },
+  "keywords": [
+    "mta",
+    "twilio"
+  ],
+  "author": "Kyle Constance",
+  "license": "ISC",
+  "dependencies": {
+    "mta-gtfs": "^1.0.1",
+    "twilio": "^2.9.1"
+  }
+}
