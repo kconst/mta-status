@@ -24,7 +24,7 @@ var Dispatcher = require('./js/Dispatcher'),
         {
             name : 'Kyle',
             lines : [2,3,4],
-            phone : '+13474508587',
+            phone : '+1',
             periods : [
                 {
                     begin : '7:30',
@@ -39,7 +39,7 @@ var Dispatcher = require('./js/Dispatcher'),
         {
             name : 'Kristen',
             lines : [0,2,3],
-            phone : '+12076534875',
+            phone : '+1',
             periods : [
                 {
                     begin : '7:30',
